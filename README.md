@@ -69,3 +69,6 @@ PostgreSQL database is used to store:
 
 ```text
 Net Pay = Basic Salary - Deductions
+
+
+
